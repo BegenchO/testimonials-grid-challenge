@@ -1,7 +1,7 @@
 # Screenshots
 
-![Desktop view of completed project](/result-desktop-view.png?raw=true | height=500)
-![Mobile view of completed project](/result-mobile-view.png?raw=true | height=500)
+![Desktop view of completed project](/result-desktop-view.png?raw=true | height=200)
+![Mobile view of completed project](/result-mobile-view.png?raw=true | height=300)
 
 
 # Getting Started with Create React App
